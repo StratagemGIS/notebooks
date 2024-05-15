@@ -15,3 +15,6 @@
 | 11    |  Best Practices      |  PyYaml for config files   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StratagemGIS/notebooks/blob/main/best_practices/11_yaml_config_files.ipynb)        |
 | 12    |  Best Practices      |  DefaultDict   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StratagemGIS/notebooks/blob/main/best_practices/12_default_dict.ipynb)        |
 | 13    |  Best Practices      |  natsort   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StratagemGIS/notebooks/blob/main/best_practices/13_natsorted.ipynb)        |
+| 14    |  Projects     |  Landsat Time Series   |         |
+| 15    |  Best Practices      |  SimpleNamespace   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StratagemGIS/notebooks/blob/main/best_practices/15_simple_namespace.ipynb)        |
+| 16    |  Best Practices      |  Walrus (:=)   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StratagemGIS/notebooks/blob/main/best_practices/16_walrus_operator.ipynb)        |
